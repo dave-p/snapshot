@@ -1,0 +1,15 @@
+/proc/*
+/sys/*
+/video/*
+/mnt/*
+/dev/*
+/tmp/*
+/run/*
+/var/swap
+/music/*
+/var/cache/pacman/pkg/*
+/srv/exports/*
+/lost+found
+/media/*
+/var/log/journal/*
+www/log/*
